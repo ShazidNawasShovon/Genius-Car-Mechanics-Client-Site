@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# Welcome To Car-Mechanics
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+## Live site links : https://genius-car-mechanics-d54f1.web.app/
 
 In the project directory, you can run:
 
